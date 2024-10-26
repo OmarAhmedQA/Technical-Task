@@ -1,0 +1,4 @@
+[INFO] 26-10-2024 12:14:00 [main] [Tests.TEST_FULL_SCENARIO.setup(TEST_FULL_SCENARIO.java:37)] - null
+[INFO] 26-10-2024 12:14:04 [main] [Tests.TEST_FULL_SCENARIO.setup(TEST_FULL_SCENARIO.java:39)] - chrome driver is opened
+[INFO] 26-10-2024 12:14:08 [main] [Tests.TEST_FULL_SCENARIO.setup(TEST_FULL_SCENARIO.java:41)] - Page is redirected to the URL
+[INFO] 26-10-2024 12:14:08 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test Case setup passed

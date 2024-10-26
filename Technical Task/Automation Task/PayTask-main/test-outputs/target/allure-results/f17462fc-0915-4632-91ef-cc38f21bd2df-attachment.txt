@@ -1,0 +1,7 @@
+[INFO] 25-10-2024 15:57:29 [main] [Tests.TEST_FULL_SCENARIO.setup(TEST_FULL_SCENARIO.java:44)] - null
+[INFO] 25-10-2024 15:57:40 [main] [Tests.TEST_FULL_SCENARIO.setup(TEST_FULL_SCENARIO.java:46)] - chrome driver is opened
+[INFO] 25-10-2024 15:57:41 [main] [Tests.TEST_FULL_SCENARIO.setup(TEST_FULL_SCENARIO.java:48)] - Page is redirected to the URL
+[INFO] 25-10-2024 15:57:41 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test Case setup passed
+[INFO] 25-10-2024 15:57:41 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case AddingCust started
+[INFO] 25-10-2024 15:58:00 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:28)] - Test Case AddingCust failed
+[INFO] 25-10-2024 15:58:02 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:32)] - Test Case quit passed
